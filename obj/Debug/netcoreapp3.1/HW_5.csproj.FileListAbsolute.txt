@@ -1,0 +1,13 @@
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\bin\Debug\netcoreapp3.1\HW_5.exe
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\bin\Debug\netcoreapp3.1\HW_5.deps.json
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\bin\Debug\netcoreapp3.1\HW_5.runtimeconfig.json
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\bin\Debug\netcoreapp3.1\HW_5.runtimeconfig.dev.json
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\bin\Debug\netcoreapp3.1\HW_5.dll
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\bin\Debug\netcoreapp3.1\HW_5.pdb
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\obj\Debug\netcoreapp3.1\HW_5.csprojAssemblyReference.cache
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\obj\Debug\netcoreapp3.1\HW_5.csproj.CoreCompileInputs.cache
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\obj\Debug\netcoreapp3.1\HW_5.AssemblyInfoInputs.cache
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\obj\Debug\netcoreapp3.1\HW_5.AssemblyInfo.cs
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\obj\Debug\netcoreapp3.1\HW_5.dll
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\obj\Debug\netcoreapp3.1\HW_5.pdb
+C:\Users\SHOHIN\Desktop\c#_projects\HW_5\obj\Debug\netcoreapp3.1\HW_5.genruntimeconfig.cache
